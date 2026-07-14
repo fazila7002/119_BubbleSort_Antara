@@ -5,5 +5,8 @@ int a[20];
 int n;
 
 void input(){
-    
+    while (true) 
+    {
+        
+    }
 }
